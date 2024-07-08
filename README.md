@@ -1,3 +1,3 @@
 # fork-test
 
-new test
+new Test
